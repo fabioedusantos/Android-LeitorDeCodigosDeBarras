@@ -1,6 +1,5 @@
-# Simple Crud
-Aplicativo Android baseado em Eclipse + ADT utilizando conceitos DAO junto ao SGBD SQlite...
-
+# Leitor de Código de Barras e QRCode
+Aplicativo Android baseado na biblioteca Zxing para a leitura de Código de Barras e QRCode...
 
 <h3>Professor Especialista Fábio Eduardo dos Santos</h3>
 <p>
